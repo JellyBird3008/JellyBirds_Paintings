@@ -1,0 +1,9 @@
+{
+  "name": "JellyBirds_Paintings",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "Some of my screenshots and art I added as paintings",
+  "dependencies": [
+    "UnderratedJunk-CustomPaintings-1.1.8"
+  ]
+}

@@ -1,0 +1,1 @@
+Now you can have more exciting paintings in R.E.P.O
